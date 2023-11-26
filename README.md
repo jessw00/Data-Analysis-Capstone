@@ -1,9 +1,9 @@
-# Data Analysis Capstone: An Analysis of Taylor Swift Lyrics 2006-2022
+# Data Analysis Capstone: An Analysis of Taylor Swift Lyrics 2006-2023
 
  ![Alt text](image.png)
 
 ## About
-This project aims to analyize the lyrics from Taylor Swift's first 10 albums, as well as the "vault tracks" on her rerecordings of Fearless and Red. We will be looking at which words are most commonly used in her songs, which songs have the highest amount of unique individual words, and what percentage of songs have clean or explicit lyrics.
+This project aims to analyize the lyrics from Taylor Swift's first 10 albums, as well as the "vault tracks" on her rerecordings of Fearless, Speak Now, Red, and 1989. We will be looking at which words are most commonly used in her songs, which songs have the highest amount of unique individual words, and what percentage of songs have clean or explicit lyrics.
 
 ## Data Sources
 - https://www.kaggle.com/datasets/nickpvl/taylor-swift-song-lyrics
