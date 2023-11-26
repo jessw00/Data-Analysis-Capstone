@@ -11,7 +11,7 @@ This project aims to analyize the lyrics from Taylor Swift's first 10 albums, as
 
 CSVs:
 - taylor_album_songs.csv: contains the names of all Taylor Swift albums, their songs, date of release, etc.
-- taylor_lyrics.csv: contains all Taylor Swift lyrics from albums released between 2006 and 2022.
+- taylor_lyrics.csv: contains all Taylor Swift lyrics from albums released between 2006 and 2023.
 
 ## Installing the Virtual Environment
 Please follow these steps to run this project on your local machine:
