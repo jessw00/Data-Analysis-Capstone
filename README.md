@@ -3,7 +3,7 @@
  ![Alt text](image.png)
 
 ## About
-This project aims to analyize the lyrics from Taylor Swift's first 10 albums, as well as the "vault tracks" on her rerecordings of Fearless and Red
+This project aims to analyize the lyrics from Taylor Swift's first 10 albums, as well as the "vault tracks" on her rerecordings of Fearless and Red. We will be looking at which words are most commonly used in her songs, which songs have the highest amount of unique individual words, and what percentage of songs have clean or explicit lyrics.
 
 ## Data Sources
 - https://www.kaggle.com/datasets/nickpvl/taylor-swift-song-lyrics
@@ -25,6 +25,7 @@ Please follow these steps to run this project on your local machine:
 1. Activate the virtual environment
     On Windows:
         ` .\venv\Scripts\activate
+    
     On macOS or Linux:
         ` source venv\bin\activate
 1. Install requirements.txt to ensure that you are running the required packages
