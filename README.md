@@ -19,17 +19,17 @@ Please follow these steps to run this project on your local machine:
 1. Navigate to the cloned directory
 1. Set up a virtual environment using your terminal
     On windows:
-        ` python -m venv venv
+        ` python -m venv venv `
     On macOS or Linux:
-     ` python3 -m venv venv
+     ` python3 -m venv venv `
 1. Activate the virtual environment
     On Windows:
-        ` .\venv\Scripts\activate
+        ` .\venv\Scripts\activate `
     
     On macOS or Linux:
-        ` source venv\bin\activate
+        ` source venv\bin\activate `
 1. Install requirements.txt to ensure that you are running the required packages
-    ` pip install -r requirements.txt
+    ` pip install -r requirements.txt `
 
 To deactivate the virtual environment, simply type "deactivate" in your terminal
 
