@@ -57,7 +57,7 @@ Category 3: Visualize/Present Your Data:
 
     -Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.
 
-Category 4: Best Practices:
+Category 4: Best Practices: 
 
     -Utilize a virtual environment and include instructions in your README on how the user should set one up.
 
